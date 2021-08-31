@@ -7,7 +7,7 @@ create a new user
 grant access to this user to the new db 
 
 
-into the `.env` file change the `DATABASE_URL` ccoridung with you new values (db,user and pwd)
+into the `.env` file change the `DATABASE_URL` according with you new values (db,user and pwd)
 
 
 run the following commands before start
